@@ -24,7 +24,7 @@ Responsável por representar um contato da agenda.
 
 Cada contato possui:
 
-* Identificação númerica
+* Indentificação númerica
 * Nome
 * E-mail
 * Telefone
