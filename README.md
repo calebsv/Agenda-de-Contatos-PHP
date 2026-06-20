@@ -1,6 +1,6 @@
 # Agenda de Contatos em PHP
 
-## Sobre o Projeto
+## Sobre o Sistema
 
 Este projeto foi desenvolvido com o objetivo de praticar Programação Orientada a Objetos (POO) em PHP através da criação de uma agenda de contatos simples, e a prática CRUD.
 
